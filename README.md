@@ -1,33 +1,49 @@
-# Energy Consumption Dashboard — Power BI
+# ⚡ Energy Consumption Dashboard
 
-## Overview
-A 3-page Power BI dashboard built to monitor and analyze 
-energy consumption across water, electricity, and gas — 
-tracking costs over time and across different cities.
+## 📖 Overview
+This project analyzes energy consumption data across water, gas, and electricity.  
+A multi-page interactive dashboard was built using Power BI to monitor costs and consumption patterns across different dimensions.
 
-## Dashboard Pages
+---
 
-### 💧 Page 1 — Water
-- Total water consumption and cost
-- Cost breakdown by year and city
+## 🛠 Tools & Technologies
+- Power BI  
+- Data Visualization  
+- DAX (basic measures)  
 
-### ⚡ Page 2 — Electricity
-- Total electricity consumption and cost
-- Cost breakdown by year and city
+---
 
-### 🔥 Page 3 — Gas
-- Total gas consumption and cost
-- Cost breakdown by year and city
+## 📊 Dashboard Structure
+The dashboard consists of 3 main pages:
+- Water Consumption  
+- Gas Consumption  
+- Electricity Consumption  
 
-## Key Metrics
-- Total cost by year
-- Total cost by city
-- Consumption trends across energy types
+---
 
-## Tools Used
-- Power BI — Dashboard design and data visualization
-- DAX — Calculated measures and KPIs
+## 📊 Key Insights
+- Total cost by year  
+- Total cost by city  
+- Consumption by building  
+- Consumption trends over time  
 
-## Notes
-Built to practice multi-page dashboard design and 
-cost analysis across different energy categories.
+---
+
+## 📁 Dataset
+- Energy consumption dataset
+
+  
+---
+
+## 🎯 What I Learned
+- Building multi-page dashboards in Power BI  
+- Analyzing utility consumption data  
+- Creating measures and visual insights  
+- Structuring dashboards for better usability  
+
+---
+
+## 🚀 Future Improvements
+- Add forecasting for energy consumption  
+- Implement advanced DAX calculations  
+- Integrate real-time data sources  
